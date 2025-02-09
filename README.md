@@ -50,13 +50,13 @@ Welcome to my GitHub profile! I'm passionate about building user-friendly and sc
 
 ## 🚀 Featured Projects
 
-### • [DevConnect](https://github.com/Abhishekballi13/devconnect)
-A social media platform for developers to connect and collaborate.
+### • [Netflix-GPT](https://netflix-gpt-rho-two.vercel.app/)
+Ai gemini powered movie viewing project.
 ![Project Badge](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Project Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 
-### • [Taskify](https://github.com/Abhishekballi13/taskify)
-A task management app built with React and Redux.
+### • [Crypto Exchange](https://crypto-exchange-six.vercel.app/)
+A Crypto Exchange app built with React and Redux.
 ![Project Badge](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Project Badge](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
 
@@ -64,9 +64,9 @@ A task management app built with React and Redux.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekb13)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://abhishekb13.dev)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekb13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dwivedi-b18242221/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://abhishekballi13.github.io/personal-portfolio/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekdvd404@gmail.com)
 
 ---
 
