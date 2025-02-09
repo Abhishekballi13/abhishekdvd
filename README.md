@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhishekballi13&theme=dracula&no-frame=true&column=3" alt="GitHub Trophies"/>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhishekballi13&theme=rogue" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekballi13&theme=rogue" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ### 📊 **Fun Widgets & Animations:**
 
 <div align="center">
-  <img src="https://github.com/Abhishekballi13/github-profile-views-counter/blob/master/svg/profile/badge.svg" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhishekballi13&color=blue" alt="Profile Views Counter"/>
   <br>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300"/>
   <br>
