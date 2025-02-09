@@ -10,11 +10,12 @@
 
 ### 🛠️ **About Me:**
 
-- 🎓 **B.Tech in Computer Science & Engineering (2024)** with a GPA of **8.2**
-- 🌟 Passionate about **Frontend Development**, **ReactJS**, and **Cloud Technologies**
-- 🚀 Currently exploring **AWS**, **Node.js**, and **Backend Development**
-- 💡 Love solving problems and collaborating on interesting projects
-- 📧 Reach me at: [abhishekbdev13@gmail.com](mailto:abhishekbdev13@gmail.com)
+- 🔄 Constantly exploring new technologies.
+- 💪 I enjoy working on challenging projects and participating in hackathons.
+- ✨ My goal: Become a versatile developer and make a difference in the tech community.
+- ⚡ Fun fact: I can debug in my sleep! (Almost 😅)
+
+📧 Reach me at: [abhishekdvd404@gmail.com](mailto:abhishekdvd404@gmail.com)
 
 ---
 
@@ -70,17 +71,14 @@
 ### 🌐 **Find Me Around the Web:**
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhishekballi" target="_blank">
+  <a href="https://linkedin.com/in/abhishek-dwivedi-b18242221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/AbhishekBalli13" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://dev.to/abhishekballi13" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://hashnode.com/@Abhishek13" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="Hashnode"/>
+  <a href="https://abhishekballi13.github.io/personal-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
