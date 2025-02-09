@@ -1,83 +1,92 @@
-# Hi there, I'm Abhishek 👋
-
-### 🚀 Full-Stack Developer | 🌐 Frontend Enthusiast | ☁️ Cloud Practitioner
-
-Welcome to my GitHub profile! I'm passionate about building user-friendly and scalable web applications using modern technologies. Let’s innovate together!
+### Hi there! 👋 Welcome to my GitHub Profile
 
 ---
 
-## 📚 About Me
-
-- 🔄 Constantly exploring new technologies.
-- 💪 I enjoy working on challenging projects and participating in hackathons.
-- ✨ My goal: Become a versatile developer and make a difference in the tech community.
-- ⚡ Fun fact: I can debug in my sleep! (Almost 😅)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Balli!;A+Passionate+Frontend+Developer+%F0%9F%8C%90;Eager+to+Learn+%26+Build+Amazing+Projects" alt="Typing SVG"/>
+</div>
 
 ---
 
-## 🔧 Tech Stack
+### 🛠️ **About Me:**
 
-### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
-
-### Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools:
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-maroon?style=flat-square&logo=jest&logoColor=white)
+- 🎓 **B.Tech in Computer Science & Engineering (2024)** with a GPA of **8.2**
+- 🌟 Passionate about **Frontend Development**, **ReactJS**, and **Cloud Technologies**
+- 🚀 Currently exploring **AWS**, **Node.js**, and **Backend Development**
+- 💡 Love solving problems and collaborating on interesting projects
+- 📧 Reach me at: [abhishekbdev13@gmail.com](mailto:abhishekbdev13@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ **Tech Stack:**
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekballi13&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekballi13&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekballi13&theme=radical)
-
----
-
-## 🚀 Featured Projects
-
-### • [Netflix-GPT](https://netflix-gpt-rho-two.vercel.app/)
-Ai gemini powered movie viewing project.
-![Project Badge](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Project Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-
-### • [Crypto Exchange](https://crypto-exchange-six.vercel.app/)
-A Crypto Exchange app built with React and Redux.
-![Project Badge](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
-![Project Badge](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?logo=jest&logoColor=white" alt="Jest Badge"/>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+### 🌟 **GitHub Stats:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dwivedi-b18242221/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://abhishekballi13.github.io/personal-portfolio/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekdvd404@gmail.com)
-
----
-
-## 🌟 Fun Section
-
-> "Code is like humor. When you have to explain it, it’s bad."
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishekballi13&color=brightgreen)
-![Dynamic Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekballi13&show_icons=true&theme=radical" alt="Abhishek's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekballi13&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekballi13&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
-### 🙏 Thank You for Visiting!
-Feel free to connect and collaborate. Let’s build something awesome together! 🌐
+### 🚀 **Dynamic Widgets:**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekballi13&theme=dracula&no-frame=true&column=3" alt="GitHub Trophies"/>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhishekballi13&theme=rogue" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+### 📊 **Fun Widgets & Animations:**
+
+<div align="center">
+  <img src="https://github.com/Abhishekballi13/github-profile-views-counter/blob/master/svg/profile/badge.svg" alt="Profile Views Counter"/>
+  <br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300"/>
+  <br>
+  <a href="https://www.buymeacoffee.com/Abhishek13"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Abhishek13&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee"/></a>
+</div>
+
+---
+
+### 🌐 **Find Me Around the Web:**
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhishekballi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/AbhishekBalli13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/abhishekballi13" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://hashnode.com/@Abhishek13" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>⭐️ Thanks for stopping by! ⭐️</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</div>
